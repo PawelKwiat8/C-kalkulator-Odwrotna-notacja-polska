@@ -1,7 +1,7 @@
 
 
 # Kalkulator Odwrotnej Notacji Polskiej (ONP) z GUI Qt
- kalkulator został zaprojektowany z myślą o z do wykonywania obliczeń matematycznych w oparciu o odwrotną notację polską (ONP) z pomocą graficznego interfejsu użytkownika (GUI) stworzonego w Qt. Dzięki zastosowaniu ONP, kalkulator pozwala na efektywne przetwarzanie wyrażeń bez konieczności używania nawiasów, co ułatwia obliczenia złożonych wyrażeń matematycznych.
+ kalkulator został zaprojektowany z myślą  do wykonywania obliczeń matematycznych w oparciu o odwrotną notację polską (ONP) z pomocą graficznego interfejsu użytkownika (GUI) stworzonego w Qt. Dzięki zastosowaniu ONP, kalkulator pozwala na efektywne przetwarzanie wyrażeń bez konieczności używania nawiasów, co ułatwia obliczenia złożonych wyrażeń matematycznych.
  
 ![interfejs graficzny](qtfiles%20-%20kalkulator/images/kalkulator.PNG)
 
